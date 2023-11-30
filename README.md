@@ -21,3 +21,4 @@
 - Puede ser utilizado para servidor de Minecraft Libremente, pero se prohibe el uso indebido del mismo
 # AVISO IMPORTANTE
 - Este es el unico perfil de Github OFICIAL del Plugin no existe otro, por ello si has bajado este plugin desde otra pagina que no sea esta ES UN SCAM ten cuidado
+- Este es el unico perfil de [Spigot](https://www.spigotmc.org/resources/antilag-lite.113779/) OFICIAL del Plugin no existe otro, por ello si has bajado este plugin desde otra pagina que no sea esta ES UN SCAM ten cuidado
