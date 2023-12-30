@@ -14,7 +14,7 @@
 • etc ✅
 # Soporte & Contacto con el Desarrollador 📢
 🔗 [Discord User](https://discord.com/users/426191252783104004)
-🔗 [Discord Support]([https://discord.gg/netherhosting](https://discord.gg/nether-host-1004920336120283256))
+🔗 [Discord Support]([https://discord.gg/netherhosting](https://discord.gg/nether-host-1004920336120283256)
 # © Copyright Decline
 - Todo lo mostrado en este Github, tanto el Proyecto Lite son Obras y creación Propias, cualquier modificación externa recibira una falta por violación a los derechos de autor
 - Todo lo subido en este proyecto es 100% creado y configuado por mi, como unico desarrollador aclaro que nadie mas puede usar mi plugin para fines de lucro
